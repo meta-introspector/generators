@@ -1,0 +1,12 @@
+* emacs
+** llm
+*** chat
+**** context help for emacs, generate help.
+
+
+** Perception as Firstness
+** Reflection as Dyad
+** Relation as Thirdness(cat theory)
+** Introspection as Fourthness(semantics)
+
+
